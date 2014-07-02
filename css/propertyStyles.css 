@@ -1,0 +1,23 @@
+/* propertyStyles.css */
+
+.t-tabs {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	border-bottom:1px solid #a4a4a4;
+}
+
+.t-tabs li {
+	float:left;
+}
+.t-tabs li a {
+	display:inline-block;
+	padding:10px;
+	border:1px solid #a4a4a4;
+}
+
+.l-tab-container h3 {
+	background-color:#ddd;
+	padding:3px 8px;
+	margin:3px 0 16px;
+}

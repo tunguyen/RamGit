@@ -1,0 +1,68 @@
+<div class="property-row">
+{{#each propertyRecord}}
+<div id="property-record-{{marshaCode}}" class="merch-property-records  list-index{{@index}}">
+
+<div class="price-container" data-rcmarsha="">
+                <div class="price-display-container ">
+                                <p class="price-display">
+                                                <a href="#"><!-- Availablity search link -->
+                                                                <span>From</span>
+                                                                <span class="price">{{fromPrice}}</span>
+                                                                <span>{{currency}}&nbsp;/ Night</span>
+                                                </a>
+                                </p>
+                </div>
+                <p class="view-rate-btn">
+                                <button class="view-rate-button submit button-secondary" type="submit">
+                                    <em>View Rates</em>
+                                </button>
+                </p>
+</div>
+
+<div class="photo-panel">
+                <p class="property-record-number">{{recordNumber}}</p>
+                <a title="{{propertyName}}" href="{{photo.imgLink}}" rel="http://www.marriot.com/{{marshaCode}}" data-marsha="{{marshaCode}}" class="mi-quickview">
+                                <img src="{{photo.imgURL}}" alt="{{propertyName}}"/>
+                </a>
+</div>
+
+
+
+<div class="hotel-info-container clearfix ">
+                <div class="property-overview clearfix">
+                                <div class="hotel-details column">
+                                                
+                                                <h3 class="hotel-title" id="hotel-name-{{marshaCode}}">
+                                                                <a href="http://www.marriot.com/{{marshaCode}}" class="" id="buttonUrlView-id" title="{{propertyName}}"><!-- Availability Search url -->
+                                                {{propertyName}}
+                                                                </a>
+                                                </h3>
+                                                <p class="hotel-address ">          
+                                                                <!-- Address -->
+                                                                {{address.address1}} {{address.city}}, {{address.country}} {{address.zip}}
+                                                </p>                                                      
+                                                <ul class="featured-features" id="featured-features-ulid2">
+                                                    {{#each amenities}}
+                                                        <li>{{this}}</li>
+                                                    {{/each}}
+                                                </ul>                     
+                                                <ul id="hotel-details-info">
+                                                                <a href="http://www.marriot.com/{{marshaCode}}" data-marsha="{{marshaCode}}" class="mi-quickview"  title="{{propertyName}}" id="hotel-detail-link-id">More Details</a>
+                                                </ul>
+                                </div>
+                                <div class="column">
+                                                <p class="hotel-distance">
+                                                               {{distance}}
+                                                </p>
+                                                <div class="logo-holder default">
+                                                                <p class="{{brandCode}}">
+                                                                                <img src="http://cache.marriott.com/Images/MiniStores/Brand_Logos.png" alt="brand" class="logo-clip">
+                                                                </p>
+                                                </div>
+                                </div>
+                </div>
+</div>
+<div class="js-rate-list">
+</div>
+{{/each}}
+</div>

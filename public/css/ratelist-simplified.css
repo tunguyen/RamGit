@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.t-rate-section {background-color:#ccc;padding:0 8px;line-height:20px;}
+.t-rate-item {border-bottom:1px solid #a4a4a4;font-size:14px;padding:0.5em;}
+.l-rate-title {
+	float:left;
+}
+
+.t-rate-section-title {font-size: 20px !important;line-height:24px !important;}
+.t-rate-item h4 {font-size:16px;font-weight:600;margin:0 0.5em 0.5em 0;background-color: #a4a4a4;line-height: 24px;padding-left: 8px;}
+.t-rate-price {font-size:24px; font-weight:700; display:block; padding:1em 0; text-align: center; color:#FD6A00;font-family: Georgia,serif;}
+.t-rate-price span {font-size:14px; font-weight: 400;color:#000;font-family: Arial,sans-serif;}
+.t-rate-button {float:right;}
+.l-horizontal-list {list-style-type:none;padding:0;margin:0;}
+.l-horizontal-list li {float:left;display:inline-block;padding:0 8px;border-left:1px solid #a4a4a4;}
+.l-horizontal-list li.first {border-left:0;padding: 0 8px 0 0;}
+.column ul.l-horizontal-list li {margin-left: 0;}
+.l-rate-set {
+	float:left;
+	width:50%;
+}
+.l-rate-set-price {
+	float: right;
+	width:165px;
+}
+
+button.t-primary-cta {
+	color:#fff;
+	display: inline-block;
+	margin: 2px 5px 2px 0;
+	padding: 6px 16px;
+	-webkit-appearance: none;
+	border-radius:3px;
+	border: 0;
+	cursor: pointer;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px;
+  	min-width: 110px;
+	outline: 0;
+ 	overflow: visible;
+	white-space: normal;
+	text-align: center;
+ 	text-decoration: none;
+	background:linear-gradient(top, #4E7BAB,#134F8F);
+	background:-webkit-linear-gradient(top, #4E7BAB,#134F8F);
+}
+button.t-primary-cta:hover{
+	background: #134f8f;
+}

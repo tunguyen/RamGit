@@ -1,0 +1,65 @@
+<div id="rate-list-results" class="l-container">
+    <form method="post" action="#">
+        <!--<ul role="tablist" class="t-tabs">
+            <! - - Tab ForEach - For each tab, this will be run - - >
+            {{#each tabHead}}
+            <li role="tab">
+                <a href="#tab{{@index}}">
+                    {{TabLabel}}
+                    <span>{{TabSublabel}}</span>
+                </a>
+            </li>
+            {{/each}}
+            <! - - end Tab ForEach - - >
+        </ul>-->
+        <div class="l-tab-container">
+            <!-- TabContents ForEach 
+                            - tab id will advance as the same as the tabs
+            -->
+            {{#each tabBody}}
+            <div id="tab{{@index}}" class="" role="tabpanel">
+                {{#each rateSection}}
+                <!-- Rate Section Header ForEach -->
+                <h3 class="t-rate-section-title">{{sectionHeader}}</h3>
+                {{#each rate}}
+                <!-- Rate ForEach -->
+                <div class="t-rate-item clearfix">
+                    
+                        <h4 id="rphindex-#">{{roomDesc}}</h4>
+                        <ul class="l-horizontal-list l-rate-set">
+                            <li class="first"><a href="#">Rate Rules Link</a></li>
+                            <li><a href="#">Room Details Link</a></li>
+                        </ul>
+                    
+                    <p aria-describedby="rphindex-#" class="l-rate-set-price">
+                        <span class="t-rate-price">{{ratePrice}} <span>USD/night</span></span>
+                        <button type="submit" class="button-secondary">
+                            <em>
+                            Select Rate Label
+                            </em>
+                        </button>
+                    </p>
+                </div>
+                {{/each}}
+                <!-- End Rate ForEach -->
+                {{/each}}
+                <!-- End Rate Section Header ForEach -->
+            </div>
+            {{/each}}
+            <!-- End TabContents ForEach -->
+        </div>
+    </form>
+</div>
+
+ <!--
+  <script>
+     $(function() {
+        $( ".l-tab-container" ).tabs();
+      });  
+
+    $('.l-tab-container').on(‘load’,function(){
+        $(this).tabs();
+    });
+
+  </script>
+-->

@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head> 
+
+	<title>
+	The official site for hotel reservations for Marriott hotels and beach resorts at Marriott.com
+	</title>
+<meta name="description" content="Visit the official site for information and hotel reservations for all Marriott hotels, resorts, and inns worldwide.   Plan a trip, view vacation packages, specials and offers, and learn more about Marriott Rewards." />
+<meta name="keywords" content="hotel reservations, online hotel reservations, online reservation, online reservations, hotel reservations, Marriott, mariott, hotel reservations" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />	
+	
+<link rel="search" type="application/opensearchdescription+xml" title="Marriott Hotel Search by City/Airport Code" href="/tools/search/marriott-city-search.xml?log=1" />
+<link rel="search" type="application/opensearchdescription+xml" title="Marriott Hotel Search by Keyword" href="/tools/search/marriott-keyword-search.xml?log=1" />
+	
+<script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/dwr';JAWR.dwr_scriptSessionId='F6EF7C023D074959F6F806381A69CE6F';JAWR.app_context_path='';</script>
+<link rel="stylesheet" type="text/css" media="all" href="/css/mi_base.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/propertySearch.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/header.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/footer.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/ratelist-simplified.css" />
+
+	<!-- // <script id="entry-template" type="text/x-handlebars-template" src="/templates/search-property-record.hbs"></script> -->
+	<!-- Handlebar Template -->
+
+</head>
+<body data-imgpath="http://cache.marriott.com"id="search-results" class="header-set-3 page-grid-b">
+<div id="page-container">
+<a name="topOfPage"></a>
+
+<script type="text/javascript">
+//<!--
+var imgPath = 'http://cache.marriott.com';
+var webfontloads = true;
+//-->
+</script>
+ <script src="/js/lib/modernzer.js" type="text/javascript"></script>
+	
+	<input type="hidden" value="http://www.marriott.com"/>
+	
+<!-- TIMESTAMP="Wed Mar 05 11:07:15 EST 2014" JVMID="sEbizMdcom8A150_prd3" -->
+	
+<header class=" clearfix">
+	<div id="header-container" class="t-header ">
+
+<a href="#layout-container" class="hidden-label is-hidden-label">Skip Main Navigation</a>
+
+<div class="nav-container">
+	<p class="m-menu l-float-left">
+		<a href="/sitemap.mi" id="menu" class="icon-menu t-menu is-drawer-control " data-analytic-send-now="true" role="button" aria-controls="primary-nav">
+			<span class="is-hidden-label">expand</span>
+			<span class="is-hidden-label">Main Menu</span>
+		</a>
+	</p>
+
+</div>
+
+<p class="l-float-left m-logo">
+	<a href="/default.mi" class="l-main-logo ">
+		<img src="http://cache.marriott.com/Images/TNG/Responsive_Header/marriott_logo.png" class="is-visible-xl" alt="Marriott Logo" />
+	</a>
+</p>
+	
+<ul id="t-subheader" class="l-float-right m-subheader">
+
+<li class="l-panel is-level-0">
+	<a id="header-find-panel-trigger" href="/search/default.mi" class="m-header-buttons t-white-text  ">
+		<span class="t-header-menu-label">Find & Reserve</span>
+		<span class="icon-triangle-down"></span>
+		<span class="t-header-subtext">Hotels, Deals & More</span>
+		<span class="t-selected-arrow"></span>
+	</a>
+</li>
+<li class="l-panel is-level-1">
+	<a href="/reservation/lookupReservation.mi" id="header-reservation-panel-trigger" class="m-header-buttons t-white-text   ">
+		<span class="t-header-menu-label">Reservations</span> 
+		<span class="icon-triangle-down"></span>
+		<span class="t-header-subtext">View & Manage</span>
+		<span class="t-selected-arrow"></span>
+	</a>
+</li>
+<li class="l-panel is-level-2 ">
+<div class="m-header-myaccount-container is-default-state">
+	<div class="m-header-myaccount">
+<form name="directLoginForm" method="post" action="https://www.marriott.com/directLogin.mi;jsessionid=q-fNUdUzBANSiFc2WZUjz8w">
+	
+	
+	
+	
+	<input type="hidden" name="returnUrl" value="" />
+	<label  for="header-my-account-userid">Sign In to My Account </label>
+	<input id="header-my-account-userid" type="text" name="userID"
+class="m-my-account-userid" maxlength="80" autocomplete="off"
+placeholder="Email or Rewards #" />
+	
+	<input id="header-my-account-password" type="password"
+name="password" class="m-my-account-password"
+maxlength="20" autocomplete="off" placeholder="Password" />
+	<button type="submit" name="submit" id="header-my-account-sign-in"
+class=" m-button-medGray"
+data-analytic-description="Marriott Rewards Sign In"
+data-analytic-delay="true" title="Sign In">Sign In</button>
+	<div class="clearfix">
+<p class="t-remember-me l-float-left">
+	<input name="rememberMe" id="my-account-rememberme"
+type="checkbox" value="true" /> <label
+for="my-account-rememberme"> Remember me </label>
+</p>
+<ul class="t-myaccount-actions">
+	<li>  <a href="/rewards/createAccount/activateAccountChallenge.mi" title="Need a password?">Need a password?</a>
+	</li>
+	<li class="last">  <a href="/forgotPassword.mi" class="" title="Forgot password?">Forgot password?</a></li>
+</ul>
+	</div>
+</form>
+	</div>
+</div>
+	
+</li>
+	
+	
+<li class="l-panel is-level-3">
+	
+<ul>
+	<li class="t-my-account">My Account:</li>
+	<li class="t-sign-in">
+
+<a href="/signIn.mi" class="">
+	Sign In
+</a>
+	</li>
+	<li class="bullet">
+	 &bull;
+	</li>
+	
+	
+<li class="t-join-now">
+	
+    <a href="/rewards/createAccount/createAccountPage1.mi" class="" title="Join Now"><span class="t-not-member">Not a member?</span>
+   <span class="t-join-link">Join Now</span></a>
+</li>
+	
+</ul>
+	
+	
+</li>
+	
+
+	</ul>
+</div> 
+</header>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<div id="content-wrapper">
+	
+	<div id="layout-container">
+		<div id="layout-body-container">
+			<div id="layout-body">
+				<a href="#skip-search-result" class="hidden-label">Skip to main content</a>
+<input type="hidden" name="collapseText" value='<span class="hidden-label">(Panel is collapsed.)</span>' id="collpased-text" />	
+<input type="hidden" name="expandText" value='<span class="hidden-label">(Panel is expanded.)</span>' id="open-text" />
+  
+<div class="one-column clearfix">
+	<div class="column first-column">
+		<div id="results-header" class="clearfix">
+			<h1 class="">Dallas Hotels</h1>
+		</div>
+	</div>
+</div>
+<div class="two-column-30-70 t-border-bottom-lightgray clearfix">
+
+<div class="column first-column">
+	
+<ul id="view-controls" class="clearfix">
+	<li class="active">
+<a id="list-toggle" nofollow="nofollow" href="#" title="List">
+	<span class="icon-view-list"></span>List
+</a>
+	</li>
+	<li >
+<a id="gallery-toggle" nofollow="nofollow" href="#" title="Gallery">
+	<span class="icon-view-grid"></span>Gallery
+</a>
+	</li>
+	
+	<li >
+<a id="map-toggle" nofollow="nofollow" href="#" title="Map">
+	<span class="icon-view-map"></span>Map
+</a>
+	</li>
+	
+</ul>
+
+	
+	
+
+	
+	
+</div>
+	
+
+	 
+	
+
+
+	
+
+
+
+	
+	
+	
+<div class="column last-column">
+<div id="sort-container" class="clearfix">
+<form action="/search/refineSearch.mi" method="get" name="sort-form" id="sort-form">
+	<label for="sort">Sort by</label>
+	<select name="sort" id="sort" onChange="javascript:document.sort-form.submit();">
+		<option value="Distance" selected="selected">Distance</option>
+		<option value="City">City</option>
+		<option value="Rate">Price</option>
+		<option value="Brand">Brand</option>
+	</select>
+</form>
+<form id="availability-toggle" method="get" action="/search/refineSearch.mi">
+	<label for="availability-filter">Show</label>
+	<select name="filter" id="availability-filter">
+		<option value="true">Available hotels</option>
+		<option value="false">All hotels</option>
+	</select>
+</form>
+	
+<form id="currency-converter-form" method="get">
+	<input type="hidden" name="current-currency" id="current-currency" value="" />
+	
+	<label for="currency">
+Currency
+	</label>
+	
+	<select id="currency" name="currency">
+		<option value=""></option>
+		<option value="USD">USD</option>
+		<option value="AUD">AUD</option>
+		<option value="CAD">CAD</option>
+		<option value="EUR">EUR</option>
+		<option value="GBP">GBP</option>
+		<option value="HKD">HKD</option>
+		<option value="JPY">JPY</option>
+		<option value="MXN">MXN</option>
+		<option value="CNY">CNY</option>
+	</select>
+</form>
+</div>
+</div>
+</div>
+
+<div class="two-column-80-20 clearfix">
+	
+<div class="column first-column">
+
+<div class="sub-nav-links book-right-ministore-style">
+	<h2 class="ministore-hotel-brand" id="choose-hotels-brands">Choose from <span><strong>79  hotels</strong></span> across <span><strong>9 brands </strong></span>in <span><strong>Dallas</strong></span></h2>
+	
+</div>
+	
+	    <div class="book-right-holder" id="search-book-right">
+<p class="bookright-text" title="Book Right">
+	Always get our best available rate on Marriott.com.
+	<a  href="/hotel-prices/online-booking-details.mi" target='_blank'>See brand exclusions and guarantee terms.</a>
+</p>
+
+</div>	
+
+<a id="skip-search-result" role="main"></a>
+	
+<div id="merch-property-results" class="base-view list" data-location="{{searchLocation}}">
+	<!-- Dynamic Results Container -->
+	<!-- data is in $( '#merch-property-results' ).data('location') -->
+</div>
+	<div id="results-pagination" class="clearfix">
+
+<ul id="paging-selector"><li class="selected">1</li><li><a title="2" href="/search/refineSearch.mi?page=2">2</a></li><li><a title="3" href="/search/refineSearch.mi?page=3">3</a></li><li><a title="4" href="/search/refineSearch.mi?page=4">4</a></li><li id="paging-next"><a  title="Next" href="/search/refineSearch.mi?page=2">Next</a></li></ul>
+	
+	<div id="records-per-page">
+<input type="hidden" name="search-type" value="InCity" />
+<input type="hidden" name="miniStoreFormSubmit2" value="false" />
+	
+
+
+	<input type="hidden" name="requestedURL" value="" />
+
+
+<label>View</label>
+
+<select name="recordsPerPage" id="recordsPerPage" class="formContent">
+	
+<option  selected="selected" 
+	value="20"/>20
+</option>
+	
+<option 
+	value="40"/>40
+</option>
+	
+</select>
+<span>Per Page</span>	
+
+	</div>
+	</div>
+ 
+<script type="text/javascript">
+    // global flag that let's hotelDirectory.js run the document.ready block that corresponds to this page
+    var updateCrossLinkBoxesFromMerchSearchResults = true;
+</script>	
+ 
+
+	
+	
+
+	
+	
+</div>
+	
+
+	 
+	
+
+
+	
+
+
+
+	
+	
+	
+<div class="column last-column">
+	
+	
+	
+	
+	
+	
+
+
+
+	
+
+<div class="edit-search">
+	
+	
+	<input type="hidden" name="groupMessage" id="groupMessage" value="The special rate you requested is not applicable when requesting more than 3 rooms. Click &#034;OK&#034; to request a group room rate. Click &#034;Cancel&#034; to revise your search." />
+	
+	<input type="hidden" name="useRewardsPtsMessage" id="useRewardsPtsMessage" value="Marriott Rewards points are not available for use when requesting more than 3 rooms.  Click &#034;OK&#034; to request a special group room rate. Click &#034;Cancel&#034; to revise your search." />
+	
+	
+	
+	<h2>
+Edit Your Search
+	</h2>
+	
+	
+	<form id="edit-search-form" method="get" action="/search/submitSearch.mi" class="validate-search-form">
+
+
+	
+	
+<input type="hidden" name="searchType" value="InCity" />
+	
+
+
+	
+	
+<input type="hidden" name="miniStoreFormSubmit" value="false" />
+	
+
+
+	
+	
+<input type="hidden" name="initialRequest" value="false" />
+	
+
+
+	
+
+
+
+	<input type="hidden" name="recordsPerPage" value="20" />
+
+<input type="hidden" name="vsInitialRequest" value="false" />
+<input type="hidden" name="dimensions" value="0" />
+
+	<input type="hidden" name="marriottBrands" value="all" />
+
+<input type="hidden" name="poiName" value="" class="search-poiname" />
+<input type="hidden" name="poiCity" value="" class="search-citydisplay" />
+<input type="hidden" name="destinationAddress.latitude" value="32.794100" class="search-lat" />
+<input type="hidden" name="destinationAddress.longitude" value="-96.765200" class="search-long" />
+
+
+
+
+
+
+	<div class="single-search-fields">
+<div class="single-search-tabs">
+	<ul class="single-search-edit-sub-menu clearfix" >
+
+	<li>
+<a href="#single-search-destination" class="single-search-toggle single-search-incity">
+	City/airport
+</a>
+	</li>
+
+
+	<li class="last">
+<a href="#single-search-location" class="single-search-toggle single-search-nearaddress">
+	Near an address
+</a>
+	</li>
+
+	</ul>
+	
+<div class="inline-elements single-search-fields">
+	
+	<input type="hidden" id="single-search-type" value="" /> 
+	<input type="hidden" id="single-search-autosuggest" class="single-search-autosuggest" name="singleSearchAutoSuggest" value="true" />
+	<input type="hidden" id="single-search-date-format" value="mm/dd/yy" />
+	<input type="hidden" id="single-search-room-count-label" value="" /> 
+	<input type="hidden" id="single-search-guest-count-label" value="" />
+	<input type="hidden" name="destinationAddress.latitude" value="32.794100" class="search-lat">
+	<input type="hidden" name="destinationAddress.longitude" value="-96.765200" class="search-long">
+	<input type="hidden" class="search-lat-near-address" />
+	<input type="hidden" class="search-long-near-address" />
+	<input type="hidden" class="search-adminDistrict" value="" />
+	<input type="hidden" class="search-countryRegion" value="" />
+	<input type="hidden" class="search-locality" value="" /> 
+	<input type="hidden" name="singleSearch" value="true" /> 
+	<input type="hidden" name="destinationAddress.city"	id="hotel-city-airport" class="search-city" value="Dallas" /> 
+	<input type="hidden" name="destinationAddress.stateProvince" id="destinationAddress.stateProvince" class="search-state" value="TX" />
+	<input type="hidden" name="destinationAddress.country" id="destinationAddress.country" class="search-country" value="US" /> 
+	<input type="hidden" name="airportCode" class="search-airport"	value="" />
+	
+	
+	<p class="single-search-location-title">
+<label for="single-location" >
+ * Location
+  </label>
+	</p>
+	
+<div id="single-search-destination"><input type="text" name="destinationAddress.destination" maxlength="100" value="Dallas, TX, USA" id="single-location" class="single-search single-search-destination"></div>
+	
+	
+<div id="single-search-location"><input type="text" name="destinationAddress.location" maxlength="100" value="" id="single-location" class="single-search single-search-location"></div>
+	
+	
+	<a title="Tooltip: Searching by Location" class="single-search-tool-tip" id="single-search-tool-tip-id" href="#"></a>
+<div  class="single-search-tool-tip-container" >
+	<span  title="Close" ><a href="#" role="button"><em class="hidden-label">Close</em></a></span>
+	<p class="single-search-location">This tool makes it easy to search for and find Marriott hotels near wherever you want to go. You can search for addresses or street intersections.<br /><br />To search near an address, provide as much information as possible including street number, street name and city (e.g., 1260 6th Ave, New York City, NY).<br /><br />To search near an intersection, include both street names, and the city name (e.g., 5th Avenue & 50th Street, New York).</p>
+	<p class="single-search-destination">This tool makes it easy to search for and find Marriott hotels near wherever you want to go. Begin by typing your destination. You can enter:<br /><br />Cities (e.g., San Francisco, CA; Chicago, IL; Paris, France)<br/><br/>US States (e.g., Georgia, USA; Oregon, USA)<br/><br/>Countries (e.g., United Kingdom; Germany)<br/><br/>Points of Interest (e.g., Statue of Liberty, Miami Convention Center, Eiffel Tower)<br/><br/>Airport Codes (e.g., LAX, JFK)<br /><br />Choose the best match from the list of suggested cities, states, countries, points of interest, or airport codes.</p>
+</div>
+</div>
+</div>
+	</div>
+
+
+<p class="flexible-date-search clearfloat">
+	<input type="checkbox" name="flexibleDateSearch" value="true" id="flexible-date-search" class="search-flexible-date-search flexible-date-search" />
+	<label for="flexible-date-search">
+My dates are flexible
+	</label>
+	<input type="hidden" value="false" name="flexibleDates" />
+</p>
+
+
+	
+	
+
+<p>
+	<label for="fromDate">
+Check-in
+<span class="standard-search-fields search-forms-date-format">(mm/dd/yy)</span>
+	</label>
+</p>
+<p class="checkRates">
+	<input type="text" name="fromDate" id="fromDate" value="04/16/14" maxlength="10" class="calendar-module-fromdate" /><input type="hidden" name="minDate" value="03/05/2014" /><input type="hidden" name="maxDate" value="02/22/2015" /><input type="hidden" name="monthNames" value="January,February,March,April,May,June,July,August,September,October,November,December" /><input type="hidden" name="weekDays" value="S,M,T,W,T,F,S" /><input type="hidden" name="dateFormatPattern" value="MM/dd/yy" />
+</p>
+<p class="target">
+	<label for="toDate">
+Check-out
+<span class="standard-search-fields search-forms-date-format">(mm/dd/yy)</span>
+	</label>
+</p>
+<p class="checkRates target">
+	         <input type="text" name="toDate" id="toDate" value="04/17/14" maxlength="10" class="calendar-module-todate" /><input type="hidden" name="populateTodateFromFromDate" value="true" /><input type="hidden" name="defaultToDateDays" value="1" />
+</p>
+	
+	<p class="hidden target length-of-stay">
+<label for="length-of-stay">
+	Number of nights
+</label>
+<select name="lengthOfStay" id="length-of-stay" class="search-length-of-stay"><option value="1" selected="selected">1</option>
+	
+
+<option value="2">2</option>
+	
+
+<option value="3">3</option>
+	
+
+<option value="4">4</option>
+	
+
+<option value="5">5</option>
+	
+
+<option value="6">6</option>
+	
+
+<option value="7">7</option>
+	
+
+<option value="8">8</option>
+	
+
+<option value="9">9</option></select>
+	</p>
+	
+<div class="clearFloat">
+	<div class="roomNum">
+<p>
+	<label for="roomCount" class="standard-search-fields-room-count">
+Rooms
+	</label>
+</p>
+<p>
+	<select name="roomCount" id="roomCount"><option value="1" selected="selected">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+
+	<option value="4">4-9</option>
+	<option value="10">10-25</option>
+	<option value="26">26+</option></select>
+</p>
+	</div>
+	<div class="guests">
+<p>
+	<label for="guestCount" class="standard-search-fields-guest-count">
+Guests/room
+	</label>
+</p>
+<p>
+	<select name="guestCount" id="guestCount"><option value="1" selected="selected">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option></select>
+</p>
+	</div>
+</div>
+
+<h3 id="hidden-rewards-trigger">
+	<a href="#hidden-rewards-container" class="toggle-link open" aria-controlled="trigger1">
+Rewards number
+<span class="hidden-label">(Panel is collapsed.)</span>
+	</a>
+</h3>
+<div id="hidden-rewards-container" class="toggle-container" aria-expanded="true">
+<p>
+	<label for="mr-number">
+Rewards number
+	</label>
+</p>
+<p>
+	
+	
+	
+	
+
+	
+	
+ 
+	
+	
+<input type="text" name="marriottRewardsNumber" maxlength="9" size="22" tabindex="" value="" id="mr-number" class="search-rewardNumber formContent short">
+	
+	 
+	
+</p>
+
+
+	
+	
+
+	
+
+
+	<p id="marriott-rewards-redemption" class="clearFloat">
+<input type="checkbox" name="useRewardsPoints" value="true" id="useRewardsPoints" class="search-useRewardsPoint" />
+<input type="hidden" name="useRewardsPoints" value="false" />
+<label for="useRewardsPoints">
+Use Rewards points
+</label>
+	<a href="/hotel-prices/use-points.mi" class="mi-popover" target="new">
+        What's This?
+	</a>
+	</p>
+
+</div>
+
+<h3 id="hidden-special-rates-trigger">
+	<a href="#hidden-special-rates-container" class="toggle-link" aria-controlled="trigger1">
+Special Rates & Awards
+<span class="hidden-label">(Panel is collapsed.)</span>
+	</a>
+</h3>
+<div class="toggle-container" id="hidden-special-rates-container" aria-expanded="false">
+	<div class="search-rates-container">
+<p>
+Proof of eligibility required
+</p>
+	<ul>
+<li>
+<input type="radio" name="clusterCode" value="none" checked="checked" id="none" class="search-clusterCode-none" />
+</li>
+<li>
+	<label for="none">
+None
+	</label>
+</li>
+	</ul>
+	
+<ul>
+	<li>
+<input type="radio" name="clusterCode" value="AAA" id="aaa" class="search-clusterCode-AAA" />
+	<label for="aaa">
+AAA/CAA
+	</label>
+	</li>
+</ul>
+	
+<ul>
+	<li>
+	<input type="radio" name="clusterCode" value="S9R" id="S9R" class="search-clusterCode-S9R radio" />
+	<label for="S9R">
+
+	Senior Discount
+
+	</label>
+</li>
+</ul>
+	
+<ul>
+	<li>
+<input type="radio" name="clusterCode" value="GOV" id="gov" class="search-clusterCode-GOV" />
+	<label for="gov">
+
+	
+
+ 
+	
+	
+	
+Government & Military
+	
+	
+	
+	</label>
+	</li>
+</ul>
+	
+	
+	<ul>
+<li>
+<input type="radio" name="clusterCode" value="other" id="corp" class="search-clusterCode-other" />
+</li>
+<li>
+	<label for="ratecorp">
+Corporate/promotional code
+	</label>
+	<p>
+<input type="text" name="corporateCode" maxlength="3" size="5" value="" class="search-corp" />
+	</p>
+</li>
+	</ul>
+	
+<ul>
+	<li>
+
+<input type="radio" name="clusterCode" value="INT" id="INT" class="search-clusterCode-INT" />
+	<label for="INT">
+
+	
+
+ 
+	
+	
+	
+	
+	
+Award number or type
+	
+	</label>
+<p>
+	<input type="text" name="displayableIncentiveType_Number" maxlength="57" size="22" value="" class="search-awards" />
+</p>
+	</li>
+</ul>
+	
+	<a href="/hotel-prices/special-rates.mi" class="mi-popover" target="new">
+        About special rates and awards
+	</a>
+</div>
+</div>
+
+
+<p>
+<a href="/search/default.mi">Advanced search</a>
+</p>
+
+
+
+
+	
+
+
+
+
+
+
+<button class="submit button-secondary" type="submit">
+	<em>
+Find
+	</em>
+</button>
+
+	</form>
+	
+</div>
+
+<div id="guided-nav" class="edit-search clearfix">
+<h2>
+	<a href="#guided-nav-items" class="toggle-link open" aria-controlled="trigger1">
+		Narrow Your Search
+		<span class="hidden-label">(Panel is expanded.)</span>
+	</a>	
+</h2>
+
+<div style="" id="guided-nav-items" class="toggle-container" aria-expanded="true">
+	<h3>Hotel Features: </h3>
+		<h4>
+			<a href="#city-dimension-text" class="toggle-link" aria-controlled="trigger1">
+				City<span class="hidden-label">(Panel is collapsed.)</span>
+			</a>
+		</h4>
+		<ul style="display: none;" id="city-dimension-text" class="toggle-container" aria-expanded="false">
+			<li class="parent-dimension">
+				<a href="/search/refineSearch.mi?dimensions=0&amp;subDimensions=240&amp;vsDimGrp=city.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=A-D" id="nav-link-1" class="collapsed">A-D</a>
+			</li>
+						
+			<li class="parent-dimension">
+				
+				<a href="/search/refineSearch.mi?dimensions=0&amp;subDimensions=241&amp;vsDimGrp=city.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=E-H" id="nav-link-2" class="collapsed">E-H</a>
+			</li>
+		
+			<li class="parent-dimension">
+				
+				<a href="/search/refineSearch.mi?dimensions=0&amp;subDimensions=242&amp;vsDimGrp=city.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=I-L" id="nav-link-3" class="collapsed">I-L</a>
+			</li>
+		
+			<li class="parent-dimension">
+				
+				<a href="/search/refineSearch.mi?dimensions=0&amp;subDimensions=243&amp;vsDimGrp=city.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=M-P" id="nav-link-4" class="collapsed">M-P</a>
+			</li>
+		
+			<li class="parent-dimension">
+				
+				<a href="/search/refineSearch.mi?dimensions=0&amp;subDimensions=244&amp;vsDimGrp=city.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Q-T" id="nav-link-5" class="collapsed">Q-T</a>
+			</li>
+		
+			<li class="parent-dimension">
+				
+				<a href="/search/refineSearch.mi?dimensions=0&amp;subDimensions=245&amp;vsDimGrp=city.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=U-Z" id="nav-link-6" class="collapsed">U-Z</a>
+			</li>
+
+		</ul>
+		
+		<h4>
+			<a href="#brands-dimension-text" class="toggle-link" aria-controlled="trigger1">
+				Brands
+				<span class="hidden-label">(Panel is collapsed.)</span>
+			</a>
+		</h4>
+		<ul style="display: none;" id="brands-dimension-text" class="toggle-container" aria-expanded="false">
+				
+			<li>
+				<label for="nav-check-7">
+				<input id="nav-check-7" class="guided-nav-control" type="checkbox">
+				<a href="/search/refineSearch.mi?dimensions=272&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Gaylord+Hotels" id="nav-link-7">Gaylord Hotels - NEW!
+					&nbsp;(1)
+				</a>
+				</label>
+			</li>
+							
+			<li>
+				<label for="nav-check-8">
+				<input id="nav-check-8" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=252&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Ritz+Carlton" id="nav-link-8">The Ritz-Carlton
+					
+						&nbsp;(1)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-9">
+				<input id="nav-check-9" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=65&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Renaissance+Hotels+%26+Resorts" id="nav-link-9">Renaissance Hotels
+					
+						&nbsp;(3)</a>
+				</label>
+			</li>
+							
+			<li>
+				<label for="nav-check-10">
+				<input id="nav-check-10" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=63&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Marriott+Hotels+%26+Resorts" id="nav-link-10">Marriott Hotels &amp; Resorts
+					
+						&nbsp;(9)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-11">
+				<input id="nav-check-11" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=66&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Courtyard" id="nav-link-11">Courtyard
+					
+						&nbsp;(22)</a>
+				</label>
+			</li>
+							
+			<li>
+				<label for="nav-check-12">
+				<input id="nav-check-12" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=68&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Fairfield+Inn" id="nav-link-12">Fairfield Inn &amp; Suites
+					
+						&nbsp;(14)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-13">
+				<input id="nav-check-13" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=71&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=SpringHill+Suites" id="nav-link-13">SpringHill Suites
+					
+						&nbsp;(6)</a>
+				</label>
+			</li>
+							
+			<li>
+				<label for="nav-check-14">
+				<input id="nav-check-14" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=67&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Residence+Inn" id="nav-link-14">Residence Inn
+					
+						&nbsp;(14)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-15">
+				<input id="nav-check-15" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=70&amp;subDimensions=&amp;vsDimGrp=brands.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=TownePlace+Suites" id="nav-link-15">TownePlace Suites
+					
+						&nbsp;(9)</a>
+				</label>
+			</li>
+		
+		</ul>
+		
+		<h4>
+			<a href="#amenities-dimension-text" class="toggle-link open" aria-controlled="trigger1">
+				Amenities
+				<span class="hidden-label">(Panel is expanded.)</span>
+			</a>
+		</h4>
+		<ul style="" id="amenities-dimension-text" class="toggle-container" aria-expanded="true">
+
+			<li>
+				<label for="nav-check-16">
+				<input id="nav-check-16" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=73&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=High-speed+Internet" id="nav-link-16">High-speed Internet
+					
+						&nbsp;(79)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-17">
+				<input id="nav-check-17" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=82&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Free+high-speed+Internet" id="nav-link-17">Free high-speed Internet
+					
+						&nbsp;(65)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-18">
+				<input id="nav-check-18" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=74&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Free+breakfast" id="nav-link-18">Free breakfast
+					
+						&nbsp;(43)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-19">
+				<input id="nav-check-19" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=76&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Fitness+center" id="nav-link-19">Fitness center
+					
+						&nbsp;(79)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-20">
+				<input id="nav-check-20" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=78&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Business+center" id="nav-link-20">Business center
+					
+						&nbsp;(72)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-21">
+				<input id="nav-check-21" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=80&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Restaurant+on-site" id="nav-link-21">Restaurant on-site
+					
+						&nbsp;(38)</a>
+				</label>
+			</li>
+
+			<li>
+				<label for="nav-check-22">
+				<input id="nav-check-22" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=75&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Pool" id="nav-link-22">Pool
+					
+						&nbsp;(77)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-23">
+				<input id="nav-check-23" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=79&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Kitchen%2fkitchenette" id="nav-link-23">Kitchen/kitchenette
+					
+						&nbsp;(28)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-24">
+				<input id="nav-check-24" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=248&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Plug+In+Panel" id="nav-link-24">Plug In Panel
+					
+						&nbsp;(31)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-25">
+				<input id="nav-check-25" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=77&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Pets+welcome" id="nav-link-25">Pet friendly
+					
+						&nbsp;(30)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-26">
+				<input id="nav-check-26" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=81&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Room+service" id="nav-link-26">Room service
+					
+						&nbsp;(17)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-27">
+				<input id="nav-check-27" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=249&amp;subDimensions=&amp;vsDimGrp=amenities.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Reimagined+Lobby" id="nav-link-27">New Lobby
+					
+						&nbsp;(24)</a>
+				</label>
+			</li>
+
+		</ul>
+		
+		<h4>
+			<a href="#hotel-type-dimension-text" class="toggle-link" aria-controlled="trigger1">
+				Hotel Type<span class="hidden-label">(Panel is collapsed.)</span>
+			</a>
+		</h4>
+		<ul style="display: none;" id="hotel-type-dimension-text" class="toggle-container" aria-expanded="false">
+			
+			<li>
+				<label for="nav-check-28">
+				<input id="nav-check-28" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=86&amp;subDimensions=&amp;vsDimGrp=hotel.type.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=New+hotel" id="nav-link-28">New Hotel
+					
+						&nbsp;(2)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-29">
+				<input id="nav-check-29" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=83&amp;subDimensions=&amp;vsDimGrp=hotel.type.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Resort" id="nav-link-29">Resort
+					
+						&nbsp;(1)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-30">
+				<input id="nav-check-30" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=84&amp;subDimensions=&amp;vsDimGrp=hotel.type.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Extended+stay" id="nav-link-30">Extended stay
+					
+						&nbsp;(23)</a>
+				</label>
+			</li>
+		
+		</ul>
+		
+		<h4>
+			<a href="#transportation-dimension-text" class="toggle-link" aria-controlled="trigger1">
+				Transportation<span class="hidden-label">(Panel is collapsed.)</span>
+			</a>
+		</h4>
+		<ul style="display: none;" id="transportation-dimension-text" class="toggle-container" aria-expanded="false">
+			
+			<li>
+				<label for="nav-check-31">
+				<input id="nav-check-31" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=35&amp;subDimensions=&amp;vsDimGrp=transportation.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Airport+shuttle" id="nav-link-31">Airport shuttle
+					
+						&nbsp;(16)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-32">
+				<input id="nav-check-32" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=144&amp;subDimensions=&amp;vsDimGrp=transportation.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Parking" id="nav-link-32">Parking
+					
+						&nbsp;(79)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-33">
+				<input id="nav-check-33" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=37&amp;subDimensions=&amp;vsDimGrp=transportation.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Car+rental+desk" id="nav-link-33">Car rental desk
+					
+						&nbsp;(2)</a>
+				</label>
+			</li>
+		</ul>
+		
+		<h4>
+			<a href="#meetings-and-events-dimension-text" class="toggle-link" aria-controlled="trigger1">
+				Events &amp; Meetings<span class="hidden-label">(Panel is collapsed.)</span>
+			</a>
+		</h4>
+		<ul style="display: none;" id="meetings-and-events-dimension-text" class="toggle-container" aria-expanded="false">
+			<li>
+				<label for="nav-check-34">
+				<input id="nav-check-34" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=39&amp;subDimensions=&amp;vsDimGrp=meetings.and.events.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Meeting%2fbanquet+space" id="nav-link-34">Meeting/event space
+					
+						&nbsp;(67)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-35">
+				<input id="nav-check-35" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=40&amp;subDimensions=&amp;vsDimGrp=meetings.and.events.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Marriott-certified+wedding+planner" id="nav-link-35">Marriott-certified wedding planner
+					
+						&nbsp;(15)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-36">
+				<input id="nav-check-36" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=41&amp;subDimensions=&amp;vsDimGrp=meetings.and.events.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Certified+meeting+planner" id="nav-link-36">Certified Meeting Planner
+					
+						&nbsp;(18)</a>
+				</label>
+			</li>
+		</ul>
+		
+		<h4>
+			<a href="#activities-on-site-dimension-text" class="toggle-link" aria-controlled="trigger1">
+				Activities<span class="hidden-label">(Panel is collapsed.)</span>
+			</a>
+		</h4>
+		<ul style="display: none;" id="activities-on-site-dimension-text" class="toggle-container" aria-expanded="false">
+			<li>
+				<label for="nav-check-37">
+				<input id="nav-check-37" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=26&amp;subDimensions=&amp;vsDimGrp=activities.on.site.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Golf" id="nav-link-37">Golf
+					
+						&nbsp;(1)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-38">
+				<input id="nav-check-38" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=27&amp;subDimensions=&amp;vsDimGrp=activities.on.site.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Full-service+spa" id="nav-link-38">Full Service Spa
+					
+						&nbsp;(2)</a>
+				</label>
+			</li>
+			<li>
+				<label for="nav-check-39">
+				<input id="nav-check-39" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=31&amp;subDimensions=&amp;vsDimGrp=activities.on.site.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Tennis" id="nav-link-39">Tennis
+					
+						&nbsp;(9)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-40">
+				<input id="nav-check-40" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=32&amp;subDimensions=&amp;vsDimGrp=activities.on.site.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Kids+activities" id="nav-link-40">Family travel
+					
+						&nbsp;(16)</a>
+				</label>
+			</li>
+		</ul>
+		<h4>
+			<a href="#reward-category-dimension-text" class="toggle-link" aria-controlled="trigger1">
+				Hotel Reward Category<span class="hidden-label">(Panel is collapsed.)</span>
+			</a>
+		</h4>
+		<ul style="display: none;" id="reward-category-dimension-text" class="toggle-container" aria-expanded="false">	
+			<li>
+				<label for="nav-check-41">
+				<input id="nav-check-41" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=56&amp;subDimensions=&amp;vsDimGrp=reward.category.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Category1" id="nav-link-41">Category 1
+					
+						&nbsp;(10)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-42">
+				<input id="nav-check-42" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=57&amp;subDimensions=&amp;vsDimGrp=reward.category.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Category2" id="nav-link-42">Category 2
+					
+						&nbsp;(29)</a>
+				</label>
+			</li>
+			
+			<li>
+				<label for="nav-check-43">
+				<input id="nav-check-43" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=58&amp;subDimensions=&amp;vsDimGrp=reward.category.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Category3" id="nav-link-43">Category 3
+					
+						&nbsp;(26)</a>
+				</label>
+			</li>
+		
+			<li>
+				<label for="nav-check-44">
+				<input id="nav-check-44" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=59&amp;subDimensions=&amp;vsDimGrp=reward.category.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Category4" id="nav-link-44">Category 4
+					
+						&nbsp;(8)</a>
+				</label>
+			</li>
+			<li>
+				<label for="nav-check-45">
+				<input id="nav-check-45" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=60&amp;subDimensions=&amp;vsDimGrp=reward.category.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Category5" id="nav-link-45">Category 5
+					
+						&nbsp;(4)</a>
+				</label>
+			</li>
+
+			<li>
+				<label for="nav-check-46">
+				<input id="nav-check-46" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=61&amp;subDimensions=&amp;vsDimGrp=reward.category.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Category6" id="nav-link-46">Category 6
+					
+						&nbsp;(1)</a>
+				</label>
+			</li>
+			<li>
+				<label for="nav-check-47">
+				<input id="nav-check-47" class="guided-nav-control" type="checkbox">                          
+				<a href="/search/refineSearch.mi?dimensions=263&amp;subDimensions=&amp;vsDimGrp=reward.category.dimension.text&amp;vsDimStatus=added&amp;vsDimValue=Tier2" id="nav-link-47">Tier 2
+					
+						&nbsp;(1)</a>
+				</label>
+			</li>
+		</ul>	
+	</div>
+</div>
+	
+	
+	<div class="msg-layout-5 msgNoColor">
+
+
+	<h2>Use Points</h2>
+
+	<p><a href="/rewards/pointsGridPopUp.mi?awardType=Standard" class="mi-popover" target="new">Hotel category chart</a>&#160;&#160;</p>
+
+	</div>
+
+	<div class="msg-layout-6 ">
+		<p><a href="javascript:sendto('no_country','no_brand','/hotel-prices/travel.mi','2');"><img src="/Images/Book_Right/br_find_hotels_search_results_page_181x240.jpg" alt="Get our best rate available when you book directly with Marriott." /></a></p>
+	</div>
+
+</div>
+	
+
+	</div>
+	
+	</div>
+	
+</div>
+	</div>
+	
+	
+	<footer class="l-clear">
+		<div id="footer" class="l-em-reset clearfix">
+	<div class="ie-footer-fix">
+		<section class="t-border-bottom t-footer-section-spacing clearfix">
+			<h2 id="seo-links-control" class="t-footer-icon-control is-drawer-control is-cursor-pointer analytics-click" aria-controls="seo-links" tabindex="0" role="button">
+				Top Destinations
+			</h2>
+			<ul id="seo-links" class="t-footer-links-list">
+				<li>
+					<a href="/hotels.mi" title="" class="analytics-click">
+						Hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/anaheim.hotels.california.united-states.travel/" title="" class="analytics-click">
+						Anaheim hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/atlanta.hotels.georgia.united-states.travel/" title="" class="analytics-click">
+						Atlanta hotels
+					</a>
+				</li>
+			
+				<li>
+					<a href="/hotel-search/boston.hotels.massachusetts.united-states.travel/" title="" class="analytics-click">
+						Boston hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/chicago.hotels.illinois.united-states.travel/" title="" class="analytics-click">
+						Chicago hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/dallas.hotels.texas.united-states.travel/" title="" class="analytics-click">
+						Dallas/Fort Worth hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/hawaii.hotels.united-states/" title="" class="analytics-click">
+						Hawaii hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/houston.hotels.texas.united-states.travel/" title="" class="analytics-click">
+						Houston hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/las-vegas.hotels.nevada.united-states.travel/" title="" class="analytics-click">
+						Las Vegas hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/london.hotels.united-kingdom.travel/" title="" class="analytics-click">
+						London hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/los-angeles.hotels.california.united-states.travel/" title="" class="analytics-click">
+						Los Angeles hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/miami.hotels.florida.united-states.travel/" title="" class="analytics-click">
+						Miami hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/new-york.hotels.new-york.united-states.travel/" title="" class="analytics-click">
+						New York hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/orlando.hotels.florida.united-states.travel/" title="" class="analytics-click">
+						Orlando hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/philadelphia.hotels.pennsylvania.united-states.travel/" title="" class="analytics-click">
+						Philadelphia hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/phoenix.hotels.arizona.united-states.travel/" title="" class="analytics-click">
+						Phoenix hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/san-antonio.hotels.texas.united-states.travel/" title="" class="analytics-click">
+						San Antonio hotels
+					</a>
+				</li>
+				<li>		
+					<a href="/hotel-search/san-diego.hotels.california.united-states.travel/" title="" class="analytics-click">
+						San Diego hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/san-francisco.hotels.california.united-states.travel/" title="" class="analytics-click">
+						San Francisco hotels
+					</a>
+				</li>
+				<li>		
+					<a href="/hotel-search/seattle.hotels.washington.united-states.travel/" title="" class="analytics-click">
+						Seattle hotels
+					</a>
+				</li>
+				<li>
+					<a href="/hotel-search/washington-dc.hotels.united-states/" title="" class="analytics-click">
+						Washington DC hotels
+					</a>
+				</li>
+			</ul>
+		</section>
+		<section class="t-footer-navigation-menu t-border-bottom t-footer-section-spacing clearfix">
+			<h2 class="footer-links-title t-footer-icon-control is-drawer-control widget-expanded" aria-controls="footer-links" tabindex="-1" role="button">
+				<span class="t-footer-icon icon-drawer-open" aria-hidden="true"></span>
+				<span class="t-footer-icon icon-drawer-close" aria-hidden="true"></span>
+				<span class="is-hidden-text" data-c="Close" data-o="Open" data-state="closed">Open</span>
+				Marriott For:
+			</h2>
+			<ul style="display: block;" id="footer-links" class="t-footer-links-list">
+				<li>	
+					<a href="/incentives/travel.mi" title="" class="analytics-click">
+						Employers
+					</a>
+				</li>
+				<li>
+					<span class="icon-dot t-small-dot"></span>
+					<a href="/careers/default.mi?stop_mobi=yes" title="" class="analytics-click">
+						Careers
+					</a>
+				</li>
+				<li>
+					<span class="icon-dot t-small-dot"></span>
+					<a href="http://www.travelagents.marriott.com/travelagents/signin.mi" title="" class="analytics-click" rel="external">
+						Travel Agents
+					<img class="external-link" src="http://cache.marriott.com/Images/Arrows/icon_newwindow_9x8.gif"></a>
+				</li>
+				<li>
+					<span class="icon-dot t-small-dot"></span>			
+					<a href="http://www.grouppartners.marriott.com/grouppartners/signin.mi" title="" class="analytics-click" rel="external">
+						Group Partners
+					<img class="external-link" src="http://cache.marriott.com/Images/Arrows/icon_newwindow_9x8.gif"></a>
+				</li>
+				<li>
+					<span class="icon-dot t-small-dot"></span>	
+					<a href="/hotel-development/real-estate-investment.mi" title="" class="analytics-click">
+						Hotel Developers
+					</a>
+				</li>
+				<li>
+					<span class="icon-dot t-small-dot"></span>
+					<a href="/marriott/affiliateprogram.mi" title="" class="analytics-click">
+						Affiliates
+					</a>
+				</li>
+				<li>
+					<span class="icon-dot t-small-dot"></span>
+					<a href="http://investor.shareholder.com/mar/default.cfm" title="" class="analytics-click" rel="external">
+						Investors
+						<img class="external-link" src="http://cache.marriott.com/Images/Arrows/icon_newwindow_9x8.gif">
+					</a>
+				</li>
+				<li>
+					<span class="icon-dot t-small-dot"></span>
+					<a href="http://www.rewards-insiders.marriott.com/welcome" title="" class="analytics-click" rel="external">
+						Community
+						<img class="external-link" src="http://cache.marriott.com/Images/Arrows/icon_newwindow_9x8.gif">
+					</a>
+				</li>
+			</ul>
+		</section>
+						
+		<div id="t-legal-footer" class="t-footer-section-spacing clearfix">	
+			<section class="t-legal-utility-links l-float-left t-uppercase-small">
+				<ul id="utilities-legal">
+						<li>
+							<a href="/marriott/aboutmarriott.mi" title="" class="analytics-click">
+								About Marriott
+							</a>
+						</li>
+						<li>
+							<a href="/suggest/default.mi" title="" class="analytics-click">
+								Help
+							</a>
+						</li>
+						<li>
+							<a href="http://www.roomkey.com/" title="" class="analytics-click" rel="external">
+								RoomKey
+								<img class="external-link" src="http://cache.marriott.com/Images/Arrows/icon_newwindow_9x8.gif">
+							</a>			
+						</li>
+					
+						<li>
+							<a href="/marriott/termsofuse-us.mi" title="" class="analytics-click">
+								Terms of Use
+							</a>
+						</li>
+					
+						<li>
+							<a href="/marriott/privacy-us.mi" title="" class="analytics-click">
+								Privacy &amp; Cookie Statement
+							</a>
+						</li>
+				</ul>
+			</section>
+			<section class="t-copyright l-padding-top-three-quarters l-clear">
+				<p class="t-uppercase-small">© 1996 - 2014 Marriott International, Inc. All rights reserved. Marriott proprietary information</p>
+			</section>
+					
+		</div>
+	</div>
+</div>
+	
+	</footer>
+</div> 
+	</div> 
+
+<script type="text/javascript">
+	var msgResources = {
+	closeText : 'close <span class="is-hidden-text">this window</span>'
+	,loadingText : 'Loading…'
+	}
+</script>
+	
+<script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/dwr';JAWR.dwr_scriptSessionId='75423BBDB3E3C5545F2F255674AEA0D1';JAWR.app_context_path='';</script>
+<script type="text/javascript" src="/js/lib/micorelib.js" ></script>
+<script type="text/javascript" src="/js/lib/utilities.js" ></script>
+<script type="text/javascript" src="/js/lib/jvscripts.js" ></script>
+<script type="text/javascript" src="/js/lib/propertySearchScripts.js" ></script>
+<script type="text/javascript" src="/js/lib/hotelDirectory.js" ></script>
+
+	<!-- RAM scripts -->
+    <script type="text/javascript" src="/js/lib/handlebars-v1.3.0.js" ></script>
+    <script type="text/javascript" src="/js/lib/underscore-min.js" ></script>
+    <script type="text/javascript" src="/js/lib/backbone-min.js" ></script>
+
+
+	
+</body>
+</html>
